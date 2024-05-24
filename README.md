@@ -5,9 +5,11 @@ Date:
                      SIMULATION OF LOGIC GATES ,ADDERS AND SUBTRACTORS
                                                
 AIM:
+
 To simulate Logic Gates ,Adders and Subtractors using Vivado 2023.2.
 
 APPARATUS REQUIRED:
+
 VIVADO 2023.2
 
 
@@ -45,12 +47,15 @@ xnor(xnorgate,a,b);
 not(notgate,a);
 endmodule
 ```
+
+
 OUTPUT WAVEFORM
 
 ![332093072-1dc5e80a-a438-4238-bbad-3dc2c359d995](https://github.com/jaggu654/VLSI-LAB-EXP-1/assets/167850134/48f566c2-b2cc-4c39-bd8f-00114e48815d)
 
 
 HALF ADDER LOGIC DIAGRAM
+
 ![332093065-94f7fc2a-9cc1-48c1-a6fe-89f8b169c594](https://github.com/jaggu654/VLSI-LAB-EXP-1/assets/167850134/ba0aa8ac-651d-486d-9c89-1013bda36c7a)
 
 
@@ -68,11 +73,16 @@ and g2(carry,a,b);
 
 endmodule
 ```
+
+
 OUTPUT WAVEFORM
+
+
 ![332092992-cc5977a8-a641-44be-a45c-60d5a1d16fd5](https://github.com/jaggu654/VLSI-LAB-EXP-1/assets/167850134/8dfda6b6-a7fd-4cd4-9582-73b6a9cc12c4)
 
 
 FULL ADDER LOGIC DIAGRAM
+
 ![332093001-d63fd6a8-4ea4-407b-8f52-dd8414660634](https://github.com/jaggu654/VLSI-LAB-EXP-1/assets/167850134/c17080d3-851b-4a5d-920b-1b2b3d050db0)
 
 
@@ -120,11 +130,11 @@ and(borrow,~a,b);
 
 endmodule
 ```
-OUTPUT WAVE
+OUTPUT WAVEFORM
+
 ![332092839-9f6d3247-62b7-48b3-bd64-523a62861f32](https://github.com/jaggu654/VLSI-LAB-EXP-1/assets/167850134/d81e4b3f-f92e-4bb7-964b-e381f84a9a22)
 
 
-FORM
 
 
 FULL SUBTRACTOR LOGIC DIAGRAM
